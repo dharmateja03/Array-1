@@ -1,6 +1,6 @@
-# // Time Complexity :
-# // Space Complexity :
-# // Did this code successfully run on Leetcode :
+# // Time Complexity :O(N)
+# // Space Complexity :O(N)
+# // Did this code successfully run on Leetcode :yes
 # // Three line explanation of solution in plain english
 # https://leetcode.com/problems/product-of-array-except-self/description/
 # // Your code here along with comments explaining your approach
